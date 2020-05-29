@@ -1,0 +1,10 @@
+#home {max-width: 100vw;
+    height: 50vh;
+    background-color: rgb(88, 88, 88);
+    margin: 50px;
+    border: solid 2px black;
+}
+
+p {text-align: center;
+    color: aliceblue;
+}

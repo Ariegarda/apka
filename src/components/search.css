@@ -1,0 +1,21 @@
+#search {max-width: 100vw;
+    height: 50vh;
+    background-color: rgb(88, 88, 88);
+    margin: 50px;
+    border: solid 2px black;
+   
+   
+}
+
+nav {display: flex;
+justify-content: center;}
+
+p {color: aliceblue;
+}
+
+#szukaj {
+height: 20px;
+width: 300px;
+text-align: center;
+
+}
